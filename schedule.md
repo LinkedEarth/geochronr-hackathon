@@ -12,8 +12,8 @@ Tentative schedule to come. Links to Zoom sessions will be emailed privately.
 |09:15|09:45| Linked Paleo Data | N. McKay  |
 |09:45|10:15| An ensemble approach to quantifying uncertainty| J. Emile-Geay  |
 |10:15|10:30| Hackathon roadmap | N. McKay |
-|10:30|11:30| Exercise 1 practicum  |    Teams | [TUDAR Chapter 2](http://linked.earth/time-uncertain-data-analysis-in-R/data.html)
-|11:30|11:45| Exercise 1 rejoinder  |  N. McKay |
+|10:30|11:45| Exercise 1 practicum  |    Teams | [TUDAR Chapter 2](http://linked.earth/time-uncertain-data-analysis-in-R/data.html)
+|11:45|12:00| Exercise 1 rejoinder  |  N. McKay |
 |12:00|15:00| Exercise 2 practicums (w/ breaks) | Teams | [TUDAR Chapter 3](http://linked.earth/time-uncertain-data-analysis-in-R/agemodelling.html)
 |15:00|15:30| Exercise 2 rejoinder |  N. McKay |
 |15:30|16:00| Social Hour       | (optional)
