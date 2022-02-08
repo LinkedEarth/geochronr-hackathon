@@ -10,8 +10,8 @@ These are the working groups for the hackathon, your intrepid teammates as you b
 | 3 | Sara Campderrós, Tiago Menezes Freire, Shawn O'Donnell, Estelle Razanatsoa,Jaime Yesid Suarez-Ibarra
 | 4 | Andrew Flaim, Wanyi Lu, Benjamin Opiyo
 | 5 | Mohd Amir, Masud Kawsar, Patrick Morrison, Jarunetr (Nadia) Sae-Lim, Xialin
-| 6 | Sarah Crump, Blanca Lorena Figueroa-Rangel, Anna Klimaszewski-Patterson, Leah Marshall
-| 7 | Tamara Fletcher, Charlotte Green, Rachael Holmes, Emma Kast, Hannah Sellers
+| 6 | Sarah Crump, Anna Klimaszewski-Patterson, Leah Marshall
+| 7 | Tamara Fletcher, Rachael Holmes, Emma Kast, Hannah Sellers
 | 8 | Antoine Lachance, Andrea Mason, Andrea Moore, Leonardo Villacis
 
 
