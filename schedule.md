@@ -27,7 +27,7 @@ Tentative schedule to come. Links to Zoom sessions will be emailed privately.
 | 09:00 | 09:30 | Correlation pitfalls and solutions| J. Emile-Geay  |
 |09:30|12:00| Exercise 3 practicum (w/ breaks) | Teams| [TUDAR Chapter 5](http://linked.earth/time-uncertain-data-analysis-in-R/correlation.html)
 |12:00|12:30| Exercise 3 rejoinder | N. McKay |
-|12:30|13:30| LinkedEarth: New Generation | D. Khider|
-|13:30|15:00| Exercise 4 practicum (w/ breaks) | Teams| [TUDAR Chapter 6](http://linked.earth/time-uncertain-data-analysis-in-R/pca.html)
+|12:30|13:00| LinkedEarth: New Generation | D. Khider|
+|13:00|15:00| Exercise 4 practicum (w/ breaks) | Teams| [TUDAR Chapter 6](http://linked.earth/time-uncertain-data-analysis-in-R/pca.html)
 |15:00|16:00| Groups report out | Teams|
 |16:00|16:30| Social Hour and wrapup       | (optional)
